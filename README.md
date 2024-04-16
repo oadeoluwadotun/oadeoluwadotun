@@ -1,9 +1,9 @@
 # Hello 👋, I'm Adeoluwa Dotun O.
 
-[![Linkedin Badge](https://img.shields.io/badge/-adeoluwa-dotun-ogundele-45476912b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeoluwa-dotun-ogundele-45476912b/)](https://www.linkedin.com/in/adeoluwa-dotun-ogundele-45476912b/)
-[![Instagram Badge](https://img.shields.io/badge/-for.data.geeks-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/for.data.geeks/)](https://instagram.com/for.data.geeks)
-[![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
-[![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-adeoluwad1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeoluwad1/)](https://www.linkedin.com/in/adeoluwad1/)
+[![Instagram Badge](https://img.shields.io/badge/-adeoluwadotun-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/adeoluwadotun/)](https://instagram.com/adeoluwadotun)
+[![Youtube Badge](https://img.shields.io/badge/-adeoluwad1-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/adeoluwad1)](https://www.youtube.com/c/adeoluwad1)
+[![Gmail Badge](https://img.shields.io/badge/oadeoluwadotun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oadeoluwadotun@gmail.com)](mailto:oadeoluwadotun@gmail.com)
 
 I got bored of teaching in the classroom after spending some years in my role as a Math Teacher and transitioned to Data Analytics, I am currently learning and working on various projects.
 
