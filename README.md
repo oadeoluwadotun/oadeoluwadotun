@@ -21,6 +21,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Excel)
 
 <br />
 
