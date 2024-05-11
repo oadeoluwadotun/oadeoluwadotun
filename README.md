@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-adeoluwad1-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/adeoluwad1)](https://www.youtube.com/c/adeoluwad1)
 [![Gmail Badge](https://img.shields.io/badge/oadeoluwadotun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oadeoluwadotun@gmail.com)](mailto:oadeoluwadotun@gmail.com)
 
-⚡I got bored of teaching in the classroom after spending some years in my role as a Math Teacher and transitioned to Data Analytics, I am currently learning and working on various projects.
+⚡Having dedicated several years to teaching Mathematics in traditional classroom settings, I have recently embarked on a new journey in Data Analytics. Drawing upon my pedagogical background and analytical prowess, I am currently immersed in expanding my expertise and contributing to diverse data-centric projects. This transition underscores my dedication to applying quantitative skills in innovative contexts, with the aim of generating meaningful insights and fostering progress through analytics.
 
 
 <p>
