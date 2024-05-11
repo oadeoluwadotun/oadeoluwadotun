@@ -5,7 +5,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-adeoluwad1-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/adeoluwad1)](https://www.youtube.com/c/adeoluwad1)
 [![Gmail Badge](https://img.shields.io/badge/oadeoluwadotun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oadeoluwadotun@gmail.com)](mailto:oadeoluwadotun@gmail.com)
 
-⚡Having dedicated several years to teaching Mathematics in traditional classroom settings, I have recently embarked on a new journey in Data Analytics. Drawing upon my pedagogical background and analytical prowess, I am currently immersed in expanding my expertise and contributing to diverse data-centric projects. This transition underscores my dedication to applying quantitative skills in innovative contexts, with the aim of generating meaningful insights and fostering progress through analytics.
+⚡Having dedicated several years to teaching Mathematics in traditional classroom settings, I have recently embarked on a new journey in Data Analytics. Drawing upon my pedagogical background and analytical prowess, I am currently immersed in expanding my expertise and contributing to diverse data-centric projects. 
+
+This transition underscores my dedication to applying quantitative skills in innovative contexts, with the aim of generating meaningful insights and fostering progress through analytics.
 
 
 <p>
@@ -19,9 +21,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Excel)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
 
 <br />
 
@@ -29,14 +33,10 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%44A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-keras-D00000?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
-![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.i![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 
 
