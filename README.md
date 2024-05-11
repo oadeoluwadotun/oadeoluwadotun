@@ -25,6 +25,7 @@ This transition underscores my dedication to applying quantitative skills in inn
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-D83B01?style=flat-square&logo=power-bi&logoColor=white)
 
 
 <br />
@@ -35,7 +36,6 @@ This transition underscores my dedication to applying quantitative skills in inn
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
 ![HTML5](https://img.shields.i![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 
