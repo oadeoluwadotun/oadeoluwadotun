@@ -11,8 +11,8 @@ This transition underscores my dedication to applying quantitative skills in inn
 
 
 <p>
-    <a href="https://Dotun777.com/">
-      <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=Dotun777&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <a href="https://oadeoluwadotun.com/">
+      <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=oadeoluwadotun&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
 </p>
   
